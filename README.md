@@ -1,2 +1,3 @@
 # Junior-CTF-writeups
-This repo contains some solutions to Junior CTF
+Here are some writeups for challenges in Junior CTF
+
